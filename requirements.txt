@@ -1,0 +1,9 @@
+tensorflow==2.15.0
+tensorflow-hub==0.16.1
+numpy
+soundfile
+pillow
+requests
+pydub
+dashscope
+gradio
